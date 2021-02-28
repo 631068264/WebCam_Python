@@ -55,7 +55,7 @@ service-identity==14.0.0
 simplejson==3.6.5
 six==1.9.0
 SQLAlchemy==1.0.8
-Twisted==15.4.0
+Twisted==21.2.0
 w3lib==1.12.0
 weblib==0.1.15
 Werkzeug==0.14.1
